@@ -26,9 +26,11 @@
   <img src="https://trophy.ryglcloud.net/?username=mayuMiyu&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Christian Neil Balita's GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mayuMiyu&theme=dracula&radius=10" alt="mayuMiyu's Activity Graph" />
 </p>
-
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 ## 🛠️ Languages & Tools
 
