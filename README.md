@@ -28,9 +28,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mayuMiyu&theme=dracula&radius=10" alt="mayuMiyu's Activity Graph" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 ## 🛠️ Languages & Tools
 
@@ -97,5 +94,5 @@
 </picture>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2a/52/4c/2a524cdbb827887b085fe4c8c14eb025.gif" alt="Bottom Line" width="100%" />
+  <img src="https://i.pinimg.com/1200x/a4/e7/b3/a4e7b3834457b230b27406123746f09b.jpg" alt="Bottom Line" width="100%" />
 </div>
