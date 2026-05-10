@@ -1,35 +1,101 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A curious aspiring Software Developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayumiyu&label=Profile%20views&color=0e75b6&style=flat" alt="mayumiyu" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Christian%20Neil%20Balita&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-- 🔭 I’m currently working on [CafePOS](https://github.com/mayuMiyu/CafePOS-System)
+<img src="https://raw.githubusercontent.com/MohammedNadeemR/MohammedNadeemR/main/git.png.gif" alt="Banner" width="100%" />
 
-- 🌱 I’m currently learning **Javascript, TypeScript, Web designs!**
+## 📌 About Me
+- Hi, I'm Christian! and I'm learning Javascript, Java, Typescript since for web designs!
+- I need help improving my programming, any tips is very much appreciated!
+- I love cats! and I'm a genuinely curious person when it comes to programming concepts.
 
-- 👯 I’m looking to collaborate on **anything I can be of help with**
 
-- 🤝 I’m looking for help with **growing as a Developer**
+## 🧠 My Focus Areas
+- Web Development (Full-Stack)
+- Software & AI
+- App Development (Full-Stack)
 
-- 👨‍💻 All of my projects are available at [my GitHub!](my GitHub!)
 
-- 💬 Ask me about **programming, games, AI!**
-
-- 📫 How to reach me **24-30865@g.batstate-u.edu.ph**
-
-- ⚡ Fun fact **I'm very curious to the point that I'm exploring everything mainly about AI/LLMs/Programming LOL!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/pickiemixer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pickiemixer" height="30" width="40" /></a>
-<a href="https://instagram.com/i7uuuu132w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i7uuuu132w" height="30" width="40" /></a>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/mayuMiyu">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mayuMiyu&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="mayuMiyu's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=mayuMiyu&theme=dracula&hide_border=true&cache_seconds=86400" alt="mayuMiyu's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=mayuMiyu&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Christian Neil Balita's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayumiyu&show_icons=true&locale=en&layout=compact" alt="mayumiyu" /></p>
+## 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayumiyu&show_icons=true&locale=en" alt="mayumiyu" /></p>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayumiyu&" alt="mayumiyu" /></p>
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/mayuMiyu">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mayuMiyu&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=mayuMiyu)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://wa.me/639153176223">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:24-30665@g.batstate-u.edu.ph">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/2a/52/4c/2a524cdbb827887b085fe4c8c14eb025.gif" alt="Bottom Line" width="100%" />
+</div>
