@@ -1,10 +1,10 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Christian%20Neil%20Balita&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false" width = "100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=tokyo1300&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false" width = "100%"/>
 
 <img src="https://raw.githubusercontent.com/MohammedNadeemR/MohammedNadeemR/main/git.png.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Hi, I'm Christian! and I'm learning Javascript, Java, Typescript since for web designs!
+- Hi, tokyo1300! and I'm learning Javascript, Java, Typescript since for web designs!
 - I need help improving my programming, any tips is very much appreciated!
 - I love cats! and I'm a genuinely curious person when it comes to programming concepts.
 
