@@ -4,7 +4,8 @@
 <img src="https://raw.githubusercontent.com/MohammedNadeemR/MohammedNadeemR/main/git.png.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Hi, tokyo1300! and I'm learning Javascript, Java, Typescript since for web designs!
+- Hi, I'm tokyo1300! and I'm learning Javascript, Java, Typescript since for web designs
+- Python, AI Implementations, Machine Learning for Automation
 - I need help improving my programming, any tips is very much appreciated!
 - I love cats! and I'm a genuinely curious person when it comes to programming concepts.
 
@@ -12,7 +13,7 @@
 ## 🧠 My Focus Areas
 - Web Development (Full-Stack)
 - Software & AI
-- App Development (Full-Stack)
+- Automations (Python)
 
 
 ## 📊 GitHub Stats & Trophies
